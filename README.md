@@ -9,6 +9,7 @@ Usage
         1.  copy it into your ~/.oh-my-zsh/themes
         2.  edit your ~/.zshrc and change the value ZSH_THEME="debian"
 
-
+### Screenshot.
+        ![debian-theme](https://raw.githubusercontent.com/rainysia/oh-my-zsh-debian-theme/master/screenshot.png)
 
 
