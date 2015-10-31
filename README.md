@@ -10,6 +10,6 @@ Usage
         2.  edit your ~/.zshrc and change the value ZSH_THEME="debian"
 
 ### Screenshot.
-        ![debian-theme](https://raw.githubusercontent.com/rainysia/oh-my-zsh-debian-theme/master/screenshot.png)
+        ![debian-theme](https://cloud.githubusercontent.com/assets/1259324/10860591/a9532578-7f27-11e5-82ff-5affbd2e19ad.png)
 
 
